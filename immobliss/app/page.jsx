@@ -6,7 +6,7 @@ import { Input } from "@/components/ui/input"
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
 import { Building, Home, Key, Search, Settings, Users } from "lucide-react"
 import React from 'react';
-import '@/app/globals.css';
+import '@/immobliss/app/globals.css';
 import Link from "next/link"
 
 export default function HomePage() {
